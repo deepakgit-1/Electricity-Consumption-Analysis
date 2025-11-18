@@ -103,7 +103,7 @@ Outputs:
 1. Open **Electricity_Consumption_Analysis.ipynb**
 2. Run all cells **in order**
 3. Upload the dataset inside Colab when prompted
-4. Train the lstm model (Note: after training save and download the model for upcoming use just upload the model and update the path)
+4. Train the lstm model (Note: after training save and download the model for upcoming use just upload the model and update the path or just download the pretrained model file and use it)
 5. Outputs will be displayed automatically  
 6. All generated plots will be saved in `/images/` folder
 
